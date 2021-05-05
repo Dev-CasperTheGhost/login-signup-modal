@@ -11,3 +11,4 @@ a simple and cool modal to login or signup using tabs
 - Use javascript to switch between tabs
 - data attributes
 - CSS Utility classes
+
